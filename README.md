@@ -8,7 +8,7 @@ and am currently studying web development at Mission Ready HQ
 🛠️ Tech 
 - Languages: JavaScript, HTML5, CSS3
 - Frameworks & Libraries: React, Node.js, Express
-- Tools & Platforms:** Git, GitHub, VS Code
+- Tools & Platforms: Git, GitHub, VS Code
 
 ---
 
