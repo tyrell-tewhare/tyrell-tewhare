@@ -1,4 +1,4 @@
-Hi there, I'm Tyrell Te Whare 🖐️
+Kia Ora, Im Tyrell Te Whare
 
 I'm an aspiring Software Developer being Maori, I am focused on providing technological solutions for the communities I serve 
 ---
