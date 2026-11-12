@@ -15,8 +15,8 @@ and am currently studying web development at Mission Ready HQ
 🚀 Key Projects
 Here are a few projects I've helped build :
 
-- [AFW](https://github.com/Hotoke-2026/AFW) — A web application focused on frontend UI structure and responsive design using HTML, CSS, and JavaScript. I worked on a couple of the pop up features and Css
-- [Brainrot](https://github.com/Hotoke-2026/brainrot-.git) — A Meme genarator that allows you too put words on meme photos I worked on the Css and UI
+- [AFW](https://github.com/Hotoke-2026/AFW) — I helped build a responsive website using HTML, CSS, and JavaScript, my main job was focusing on the layout and interactive pop-ups.
+- [Brainrot](https://github.com/Hotoke-2026/brainrot-.git) —"I also helped build a meme generator app that lets users add text to meme images, my main focus was the CSS styling."
 ---
 
 📫 Let's Connect!
