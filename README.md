@@ -1,6 +1,6 @@
 Kia Ora, Im Tyrell Te Whare
 
-I'm an aspiring Software Developer being Maori, I am focused on providing technological solutions for the communities I serve 
+I'm an aspiring Software Developer, being Maori I am focused on providing technological solutions for the communities I serve 
 ---
 I have completed Dev Academy Aotearoa's software development programme, 
 and am currently studying web development at Mission Ready HQ
