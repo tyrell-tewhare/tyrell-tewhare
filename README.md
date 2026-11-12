@@ -5,7 +5,7 @@ I'm an aspiring Software Developer, being Maori I am focused on providing techno
 I have completed Dev Academy Aotearoa's software development programme, 
 and am currently studying web development at Mission Ready HQ
 
-🛠️ Tech 
+🛠️ Tech : 
 JavaScript, HTML/CSS, React, Node.js, GitHub, VS Code, TypeScript, Knex, SQL, Vitest 
 ---
 🚀 Key Projects
