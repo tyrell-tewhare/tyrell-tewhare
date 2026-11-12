@@ -12,7 +12,7 @@ JavaScript, TypeScript, HTML/CSS, React, Node, Git, Knex, SQL, Vitest
 
 Here are a few projects I've helped build 
 - [AFW](https://github.com/Hotoke-2026/AFW) — I helped build a responsive website using HTML, CSS, and JavaScript, my main job was focusing on the layout and interactive pop-ups.
-- [Brainrot](https://github.com/Hotoke-2026/brainrot-.git) —I also helped build a meme generator app that lets users add text to meme images, my main focus was the text boxes and CSS styling part.
+- [Brainrot](https://github.com/Hotoke-2026/brainrot-.git) —I also helped build a meme generator app that lets users add text to meme images, I worked on the UI design and CSS styling.
 ---
 
 📫 Let's Connect!
