@@ -6,8 +6,7 @@ I have completed Dev Academy Aotearoa's software development programme,
 and am currently studying web development at Mission Ready HQ
 
 🛠️ Tech : 
-
-JavaScript, HTML/CSS, React, Node, GitHub, VS Code, TypeScript, Knex, SQL, Vitest 
+JavaScript, Typescript, HTML/CSS, React, Node, Git, Knex, SQL, Vitest 
 ---
 🚀 Projects :
 
